@@ -1,0 +1,43 @@
+/* Estilos Header */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 100px;
+}
+
+.header__navigator {
+    display: flex;
+    align-items: center;
+}
+
+.header__navigator ul {
+    display: flex;
+    gap: 45px;
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #454868;
+}
+
+.header__settings {
+    display: flex;
+    gap: 70px;
+    align-items: center;
+}
+
+.header__settings div {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    font-family: "Jost";
+    font-size: 16px;
+    font-weight: 400px;
+}
+
+.header__settings button {
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+}

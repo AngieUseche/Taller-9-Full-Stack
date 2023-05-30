@@ -1,0 +1,31 @@
+/* Estilos Banner */
+
+#Banner {
+    display: flex;
+    margin: 25px 100px;
+    padding: 90px 80px;
+    background: linear-gradient(135deg, #5961F9 0%, #ED80FD 100%);
+    border-radius: 48px 48px 300px 48px;
+}
+
+h1 {
+    margin: 0px;
+    color: #fff;
+    font-family: "Jost";
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: -0.64px;
+}
+
+#Banner p {
+    margin: 25px 0px;
+    color: #fff;
+}
+
+.button--white {
+    padding: 10px 35px;
+    background: transparent;
+    color: white;
+    border: 1px solid #fff;
+}

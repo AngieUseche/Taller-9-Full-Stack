@@ -1,0 +1,16 @@
+/* Estilos de Section 2 */
+
+#Section--2 {
+    padding: 20px 180px;
+    background: #ed80fd26;
+}
+
+.Section--2__info {
+    display: flex;
+    gap: 25px;
+    margin: 70px 0px;
+}
+
+.Section--2__sub-pink {
+    color: #ed80fd;
+}

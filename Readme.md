@@ -6,3 +6,4 @@
 <a href="https://www.figma.com/file/CEDajpsbBifte5A7m1eI2H/Ejericio-Mockup?type=design&node-id=0%3A1&t=SqZ54X7TyiXpCW6U-1">Link de Figma</a>
 <h2>Punto 2: Imagen código HTML</h2>
 <img src="./Public/images/HTML_Taller.png" alt="HTML">
+

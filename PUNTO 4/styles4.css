@@ -1,0 +1,14 @@
+/* Estilos punto 4 */
+
+div {
+    font-family: "Jost";
+    text-align: center;
+}
+
+.azul {
+    color: blue;
+}
+
+.rojo {
+    color: #f00;
+}

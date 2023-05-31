@@ -5,6 +5,10 @@
     background: #ed80fd26;
 }
 
+#Section--2 button {
+    margin-top: 15px;
+}
+
 .Section--2__info {
     display: flex;
     gap: 25px;

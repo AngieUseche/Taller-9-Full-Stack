@@ -28,6 +28,9 @@
     box-shadow: 0px 10px 50px #45486833;
 }
 
+.Section--1__card-down {
+    margin-top: 50px;
+}
 .Section--1__card h3 {
     font-family: "Jost";
     color: #454868;

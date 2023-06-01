@@ -1,0 +1,36 @@
+/* Estilos punto 5 */
+
+div {
+    margin: 30px 350px;
+    text-align: left;
+}
+
+.sub {
+    text-decoration: underline;
+}
+
+.green--color {
+    color: #0ac50a;
+}
+
+.red--letter {
+    color: red;
+}
+
+u {
+    border-top: 1px solid black;
+}
+
+.big {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.blue--letter {
+    color: blue;
+    font-size: 18px;
+}
+
+#medium--letter {
+    font-size: 18px;
+}

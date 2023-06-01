@@ -1,0 +1,36 @@
+div {
+    margin: 10px 200px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px dotted black;
+    background-color: yellow;
+
+}
+
+th {
+    font-family: "Jost";
+    font-size: 12px;
+    font-weight: 600;
+    color: red;
+    text-align: center;
+}
+
+tr {
+    border: 1px dotted black;
+}
+
+td {
+    font-size: 18px;
+    border: 1px dotted black;
+}
+
+.border--red {
+    border-bottom: 1px dashed red;
+}
+
+span {
+    font-size: 18px;
+    font-weight: 700;
+}

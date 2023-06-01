@@ -27,5 +27,6 @@
 <p>El botón Inicio redirecciona al menú</p>
 <img src="./Public/images/Punto_7-8.png" alt="Navegación">
 
-
+<h2>Punto 9: Imagen Tabla</h2>
+<img src="./Public/images/Punto_9.png" alt="Tabla">
 

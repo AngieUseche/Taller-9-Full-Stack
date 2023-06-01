@@ -14,19 +14,19 @@
 <img src="./Public/images/CSS_Taller.png" alt="CSS">
 
 <h2>Punto 4: Imagen Titulos</h2>
-<img src="./Public/images/Punto_4.png" alt="Titulos">
+<img src="./Public/images/Punto_4.PNG" alt="Titulos">
 
 <h2>Punto 5: Imagen Textos</h2>
-<img src="./Public/images/Punto_5.png" alt="Textos">
+<img src="./Public/images/Punto_5.PNG" alt="Textos">
 
 <h2>Punto 6: Imagen Enlaces</h2>
 <p>El ultimo enlace redirecciona al menú</p>
-<img src="./Public/images/Punto_6.png" alt="Enlaces">
+<img src="./Public/images/Punto_6.PNG" alt="Enlaces">
 
 <h2>Punto 7-8: Navegacion</h2>
 <p>El botón Inicio redirecciona al menú</p>
-<img src="./Public/images/Punto_7-8.png" alt="Navegación">
+<img src="./Public/images/Punto_7-8.PNG" alt="Navegación">
 
 <h2>Punto 9: Imagen Tabla</h2>
-<img src="./Public/images/Punto_9.png" alt="Tabla">
+<img src="./Public/images/Punto_9.PNG" alt="Tabla">
 

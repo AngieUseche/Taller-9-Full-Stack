@@ -1,4 +1,4 @@
-<h1>Taller 9: Angie Useche</h1>
+<h1>Taller 9: Angie Katherine Useche</h1>
 <h2>Información</h2>
 <p>Curso: Full Stack Básico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p>

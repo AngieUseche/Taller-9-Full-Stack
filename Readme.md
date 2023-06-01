@@ -23,5 +23,9 @@
 <p>El ultimo enlace redirecciona al menú</p>
 <img src="./Public/images/Punto_6.png" alt="Enlaces">
 
+<h2>Punto 7: Navegacion</h2>
+<p>El botón Inicio redirecciona al menú</p>
+<img src="./Public/images/Punto_7-8.png" alt="Navegación">
+
 
 

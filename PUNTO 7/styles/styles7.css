@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 10px 300px;
+    height: 70px;
+    padding-left: 15px;
+    background-color: #c29ce6e1;
+    gap: 15px;
+}
+
+button {
+    padding: 12px;
+    background-color: blue;
+    color: #fff;
+    border: none;
+}
+
+#navigation {
+    display: flex;
+    gap: 20px;
+}
+
+a {
+    font-size: 17px;
+    color: #fff;
+    text-decoration: none;
+}

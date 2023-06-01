@@ -1,0 +1,26 @@
+/* Estilos Punto 6 */
+div {
+    margin: 10px 200px;
+    padding: 10px 200px;
+
+}
+
+a {
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 70px;
+}
+
+.black--letter {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.yellow--letter {
+    color: #ffff00;
+}
+
+.purple--letter {
+    color: #923be4;
+}

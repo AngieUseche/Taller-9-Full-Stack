@@ -13,4 +13,15 @@
 <h2>Punto 3: Imagen CSS</h2>
 <img src="./Public/images/CSS_Taller.png" alt="CSS">
 
+<h2>Punto 4: Imagen Titulos</h2>
+<img src="./Public/images/Punto_4.png" alt="Titulos">
+
+<h2>Punto 5: Imagen Textos</h2>
+<img src="./Public/images/Punto_5.png" alt="Textos">
+
+<h2>Punto 6: Imagen Enlaces</h2>
+<p>El ultimo enlace redirecciona al menú</p>
+<img src="./Public/images/Punto_6.png" alt="Enlaces">
+
+
 
